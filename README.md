@@ -1,4 +1,3 @@
-# terminal-bmi-calculator
 # Terminal BMI Calculator 🧮
 
 A simple Python-based terminal application to calculate Body Mass Index (BMI) and categorize it based on standard BMI ranges.
